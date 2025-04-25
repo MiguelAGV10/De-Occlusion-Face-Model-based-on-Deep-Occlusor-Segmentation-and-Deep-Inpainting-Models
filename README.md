@@ -7,9 +7,9 @@ Overview
 We present an ensemble learning approach for face inpainting. The model can use binary masks, real occluders, and synthetic occluders to train robustly across different occlusion scenarios.
 
 Datasets
-* Face images dataset: downloaded from here https://drive.google.com/drive/folders/1VGlK2ym0gI9bS-4rTLx-uL-jMHWMO5HQ?usp=sharing
-* Binary masks dataset: downloaded from here https://drive.google.com/drive/folders/19CXiaFdaKhLNtvTJTRSNXf5UvXUp8x4t?usp=sharing.
-* Real occluder dataset for self-supervised training: downloaded from here https://drive.google.com/drive/folders/1SoosnSGwbHYWGx_4Luj9YHPrXHPkcEqo?usp=sharing
+* Face images dataset: https://drive.google.com/drive/folders/1VGlK2ym0gI9bS-4rTLx-uL-jMHWMO5HQ?usp=sharing
+* Binary masks dataset: https://drive.google.com/drive/folders/19CXiaFdaKhLNtvTJTRSNXf5UvXUp8x4t?usp=sharing.
+* Real occluder dataset for self-supervised training: https://drive.google.com/drive/folders/1SoosnSGwbHYWGx_4Luj9YHPrXHPkcEqo?usp=sharing
 * Smaller dataset for general inpainting: https://drive.google.com/drive/folders/11Biz2qc2iC8s2XdiaOKCCNm3fFAGwbtX?usp=sharing
 
 Installation:
