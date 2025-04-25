@@ -7,3 +7,7 @@ We also used self-supervised learning for not using binary masks but real and sy
 Besides, we trained our model with a smaller dataset that involves different classes https://drive.google.com/drive/folders/11Biz2qc2iC8s2XdiaOKCCNm3fFAGwbtX?usp=sharing
 
 In order to train our model, we recommend to attend the README.txt file.
+
+Article name: De-Occlusion Face Model based on Deep Occlusor Segmentation and Deep Inpainting Models
+Authors: Miguel A. Gutierrez-Velazquez, Mario I. Chacon-Murguia, and Juan A. Ramirez-Quintana
+Article ID: 9612
