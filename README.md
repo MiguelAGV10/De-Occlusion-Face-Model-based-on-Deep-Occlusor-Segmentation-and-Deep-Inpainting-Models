@@ -20,9 +20,11 @@ First, create the conda environment:
 Training
 We recommend consulting the README.txt. It includes detailed instructions.
 Main training scripts:
+
 ![image](https://github.com/user-attachments/assets/687c4486-9470-4a2e-88a7-2ca0076c7532)
 
 To run train_inpainting.py, execute from the console
+
 ![image](https://github.com/user-attachments/assets/99d60604-2335-4823-8fbd-017a49b2e9d9)
 
 where [model_name] can be:
@@ -33,6 +35,7 @@ where [model_name] can be:
 
 Inference and Evaluation
 Additional scripts:
+
 ![image](https://github.com/user-attachments/assets/b72d9948-ea36-4e60-931f-23475fb9d5e5)
 
 Notes
